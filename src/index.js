@@ -1,15 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
-import AppBar from "./components/AppBar/index";
-
+import { Experimental_CssVarsProvider as CssVarsProvider } from '@mui/material/styles';
+import theme from './theme';
+import App from "./App";
+import {CssBaseline} from "@mui/material";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-      <AppBar />
+      <CssVarsProvider  theme={theme}>
+          <CssBaseline/>
+      <App />
+      </CssVarsProvider >
   </React.StrictMode>
 );
 
