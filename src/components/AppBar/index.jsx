@@ -1,5 +1,5 @@
 import Box from '@mui/material/Box';
-// import ModeSelect from '../../components/ModeSelect';
+
 import AppsIcon from '@mui/icons-material/Apps';
 import { ReactComponent as TrelloIcon} from '../../assets/trello.svg';
 import SvgIcon from '@mui/material/SvgIcon';
@@ -10,6 +10,7 @@ import Starred from "./Menus/Starred";
 import Templates from "./Menus/Templates";
 import Button from '@mui/material/Button';
 import TextField from '@mui/material/TextField';
+import ModeSelect from "../ModeSelect";
 
 function AppBar() {
     return (
@@ -36,7 +37,7 @@ function AppBar() {
             </Box>
             <Box sx={{display: 'flex', alignItems: 'center', gap: 2}}>
                 <TextField id="outlined-search" label="Search..." type="search" size="small"/>
-                {/*<ModeSelect />*/}
+                <ModeSelect />
             </Box>
 
         </Box>
