@@ -10,6 +10,8 @@ import IconButton from '@mui/material/IconButton';
 import PersonAdd from '@mui/icons-material/PersonAdd';
 import Settings from '@mui/icons-material/Settings';
 import Logout from '@mui/icons-material/Logout';
+
+
 const Profiles = () => {
     const [anchorEl, setAnchorEl] = React.useState(null)
     const open = Boolean(anchorEl)
@@ -31,7 +33,7 @@ const Profiles = () => {
                         aria-expanded={open ? 'true' : undefined}
                     >
                         <Avatar
-                            sx={{ width: 32, height: 32 }}
+                            sx={{ width: 36, height: 36 }}
                             alt="Datdev"
                             src='https://scontent.fhan20-1.fna.fbcdn.net/v/t39.30808-1/367440469_784381850131910_93636929748515675_n.jpg?stp=c0.59.240.240a_dst-jpg_p240x240&_nc_cat=103&ccb=1-7&_nc_sid=5740b7&_nc_ohc=ao8HzxX9qQgAX8Zypln&_nc_oc=AQk5EVfy9gZ7muY3gbZb1L2ahl829XR54KREsKUizJao9P0_hdHZEgPPFEi-fAReB38&_nc_ht=scontent.fhan20-1.fna&oh=00_AfDK3uVU0VpokmY29SoR5232AXqawl3U3eYXzo0ppXjtjg&oe=65A373BA'
                         />
