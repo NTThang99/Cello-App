@@ -11,7 +11,7 @@ import Templates from "./Menus/Templates";
 import Profiles from "./Menus/Profiles";
 import Button from '@mui/material/Button';
 import TextField from '@mui/material/TextField';
-import ModeSelect from "../ModeSelect";
+import ModeSelect from "../ModeSelect/ModeSelect";
 import Badge from "@mui/material/Badge";
 import NotificationsNoneIcon from '@mui/icons-material/NotificationsNone';
 import Tooltip from '@mui/material/Tooltip';
