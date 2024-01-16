@@ -98,24 +98,24 @@ function BoardBar(board) {
                                  }
                              }}
                 >
-                    <Tooltip title="datdev">
+                    <Tooltip title="TheCoded">
+                        <Avatar alt="TheCoded"
+                                src='https://scontent.fhan20-1.fna.fbcdn.net/v/t39.30808-1/367440469_784381850131910_93636929748515675_n.jpg?stp=c0.59.240.240a_dst-jpg_p240x240&_nc_cat=103&ccb=1-7&_nc_sid=5740b7&_nc_ohc=ao8HzxX9qQgAX8Zypln&_nc_oc=AQk5EVfy9gZ7muY3gbZb1L2ahl829XR54KREsKUizJao9P0_hdHZEgPPFEi-fAReB38&_nc_ht=scontent.fhan20-1.fna&oh=00_AfDK3uVU0VpokmY29SoR5232AXqawl3U3eYXzo0ppXjtjg&oe=65A373BA'/>
+                    </Tooltip>
+                    <Tooltip title="TheCoded">
+                        <Avatar alt="TheCoded"
+                                src='https://scontent.fhan20-1.fna.fbcdn.net/v/t39.30808-1/367440469_784381850131910_93636929748515675_n.jpg?stp=c0.59.240.240a_dst-jpg_p240x240&_nc_cat=103&ccb=1-7&_nc_sid=5740b7&_nc_ohc=ao8HzxX9qQgAX8Zypln&_nc_oc=AQk5EVfy9gZ7muY3gbZb1L2ahl829XR54KREsKUizJao9P0_hdHZEgPPFEi-fAReB38&_nc_ht=scontent.fhan20-1.fna&oh=00_AfDK3uVU0VpokmY29SoR5232AXqawl3U3eYXzo0ppXjtjg&oe=65A373BA'/>
+                    </Tooltip>
+                    <Tooltip title="TheCoded">
                         <Avatar alt="datdev"
                                 src='https://scontent.fhan20-1.fna.fbcdn.net/v/t39.30808-1/367440469_784381850131910_93636929748515675_n.jpg?stp=c0.59.240.240a_dst-jpg_p240x240&_nc_cat=103&ccb=1-7&_nc_sid=5740b7&_nc_ohc=ao8HzxX9qQgAX8Zypln&_nc_oc=AQk5EVfy9gZ7muY3gbZb1L2ahl829XR54KREsKUizJao9P0_hdHZEgPPFEi-fAReB38&_nc_ht=scontent.fhan20-1.fna&oh=00_AfDK3uVU0VpokmY29SoR5232AXqawl3U3eYXzo0ppXjtjg&oe=65A373BA'/>
                     </Tooltip>
-                    <Tooltip title="datdev">
-                        <Avatar alt="datdev"
+                    <Tooltip title="TheCoded">
+                        <Avatar alt="TheCoded"
                                 src='https://scontent.fhan20-1.fna.fbcdn.net/v/t39.30808-1/367440469_784381850131910_93636929748515675_n.jpg?stp=c0.59.240.240a_dst-jpg_p240x240&_nc_cat=103&ccb=1-7&_nc_sid=5740b7&_nc_ohc=ao8HzxX9qQgAX8Zypln&_nc_oc=AQk5EVfy9gZ7muY3gbZb1L2ahl829XR54KREsKUizJao9P0_hdHZEgPPFEi-fAReB38&_nc_ht=scontent.fhan20-1.fna&oh=00_AfDK3uVU0VpokmY29SoR5232AXqawl3U3eYXzo0ppXjtjg&oe=65A373BA'/>
                     </Tooltip>
-                    <Tooltip title="datdev">
-                        <Avatar alt="datdev"
-                                src='https://scontent.fhan20-1.fna.fbcdn.net/v/t39.30808-1/367440469_784381850131910_93636929748515675_n.jpg?stp=c0.59.240.240a_dst-jpg_p240x240&_nc_cat=103&ccb=1-7&_nc_sid=5740b7&_nc_ohc=ao8HzxX9qQgAX8Zypln&_nc_oc=AQk5EVfy9gZ7muY3gbZb1L2ahl829XR54KREsKUizJao9P0_hdHZEgPPFEi-fAReB38&_nc_ht=scontent.fhan20-1.fna&oh=00_AfDK3uVU0VpokmY29SoR5232AXqawl3U3eYXzo0ppXjtjg&oe=65A373BA'/>
-                    </Tooltip>
-                    <Tooltip title="datdev">
-                        <Avatar alt="datdev"
-                                src='https://scontent.fhan20-1.fna.fbcdn.net/v/t39.30808-1/367440469_784381850131910_93636929748515675_n.jpg?stp=c0.59.240.240a_dst-jpg_p240x240&_nc_cat=103&ccb=1-7&_nc_sid=5740b7&_nc_ohc=ao8HzxX9qQgAX8Zypln&_nc_oc=AQk5EVfy9gZ7muY3gbZb1L2ahl829XR54KREsKUizJao9P0_hdHZEgPPFEi-fAReB38&_nc_ht=scontent.fhan20-1.fna&oh=00_AfDK3uVU0VpokmY29SoR5232AXqawl3U3eYXzo0ppXjtjg&oe=65A373BA'/>
-                    </Tooltip>
-                    <Tooltip title="datdev">
-                        <Avatar alt="datdev"
+                    <Tooltip title="TheCoded">
+                        <Avatar alt="TheCoded"
                                 src='https://scontent.fhan20-1.fna.fbcdn.net/v/t39.30808-1/367440469_784381850131910_93636929748515675_n.jpg?stp=c0.59.240.240a_dst-jpg_p240x240&_nc_cat=103&ccb=1-7&_nc_sid=5740b7&_nc_ohc=ao8HzxX9qQgAX8Zypln&_nc_oc=AQk5EVfy9gZ7muY3gbZb1L2ahl829XR54KREsKUizJao9P0_hdHZEgPPFEi-fAReB38&_nc_ht=scontent.fhan20-1.fna&oh=00_AfDK3uVU0VpokmY29SoR5232AXqawl3U3eYXzo0ppXjtjg&oe=65A373BA'/>
                     </Tooltip>
                 </AvatarGroup>
